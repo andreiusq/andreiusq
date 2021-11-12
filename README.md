@@ -1,1 +1,1 @@
-<center>Founded (@pixeld-technologies)[https://github.com/pixeld-technologies], @red-county-stories, @realmromania. Now interested in NFT & Crypto</center>
+<center>Founded [@pixeld-technologies](https://github.com/pixeld-technologies), [@red-county-stories](https://github.com/red-county-stories), [@realmromania](https://github.com/realmromania). Now interested in NFT & Crypto</center>
