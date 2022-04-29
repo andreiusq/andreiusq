@@ -1,1 +1,1 @@
-Founded [Pixeld Technologies](https://pixeld.tech/), [Realm Romania](https://realm.ro/). Now interested in NFTs, Gaming & Cloud Computing.
+Founded [Pixeld Cloud](https://pixeld.cloud), [Serenity World](https://serenity.world), [Pixeld Technologies](https://pixeld.tech/), [Realm Romania](https://realm.ro/). Now interested in investments of all sorts.
