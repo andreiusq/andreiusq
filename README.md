@@ -9,11 +9,11 @@
 
 <br/>
 <p align="left">
-  <a href="https://andreiusq.win/">
+  <a href="https://andreiusq.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andreiusq&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreiusq&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Andreiusq Activity Graph](https://activity-graph.herokuapp.com/graph?username=andreiusq&custom_title=andreiusq%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://andreiusq.win)
+[![Andreiusq Activity Graph](https://activity-graph.herokuapp.com/graph?username=andreiusq&custom_title=andreiusq%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://andreiusq.dev)
