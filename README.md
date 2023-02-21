@@ -15,5 +15,3 @@
   </a>
 </p>
 <br>
-
-[![Andreiusq Activity Graph](https://activity-graph.herokuapp.com/graph?username=andreiusq&custom_title=andreiusq%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://andreiusq.dev)
