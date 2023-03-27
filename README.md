@@ -8,7 +8,7 @@
 ## My Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://andreiusq.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andreiusq" />
   </a>
