@@ -10,7 +10,7 @@
 <br/>
 <p align="center">
   <a href="https://andreiusq.dev/">
-    ![Metrics](/github-metrics.svg)
+    <img src="/github-metrics.svg" alt="Metrics" width="400">
   </a>
 </p>
 <br>
