@@ -10,7 +10,10 @@
 <br/>
 <p align="center">
   <a href="https://andreiusq.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andreiusq" />
+    ![Metrics](/github-metrics.svg)
   </a>
 </p>
 <br>
+
+
+
