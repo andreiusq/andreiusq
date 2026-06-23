@@ -9,7 +9,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://andreiusq.dev/">
+  <a href="https://mcnu.ro/">
     <img src="/github-metrics.svg" alt="Metrics" width="400">
   </a>
 </p>
